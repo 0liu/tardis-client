@@ -1,0 +1,13 @@
+name: crypto
+
+dependencies:
+  - python=3.10
+  - pip
+  - ipython
+  - aiohttp=3.8.1
+  - aiofiles=0.4
+  - aiosqlite=0.17
+  - sortedcontainers=2.4
+  - sqlalchemy=1.4.36
+  - pip:
+      - tardis-client
